@@ -42,12 +42,12 @@ const vcard = 'BEGIN:VCARD\n'
 blocked = []   
 prefix = '#'
 limitawal = 30
-memberlimit = 5
-cr = '*BOT INI SUDAH TERVERIFIKASI*'
+memberlimit = 1
+cr = '*OFFICIAL FROM WHATSAPP*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297175@s.whatsapp.net"] 
+const ownerNumber = ["6282154994100@s.whatsapp.net","6289697318611@s.whatsapp.net","19788678715@s.whatsapp.net"] 
 /************************************/
 
        
