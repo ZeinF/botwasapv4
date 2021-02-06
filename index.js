@@ -35,7 +35,7 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN: Fardany\n' 
+            + 'FN:Fardany\n' 
             + 'ORG: Pengembang XBot;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6282154994100:+62 821-5499-4100\n' 
             + 'END:VCARD' 
@@ -43,11 +43,11 @@ blocked = []
 prefix = '#'
 limitawal = 30
 memberlimit = 5
-cr = '*OFFICIAL FROM WHATSAPP*'
+cr = '*BOT INI RESMI*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6282154994100@s.whatsapp.net","6289697318611@s.whatsapp.net","19788678715@s.whatsapp.net*] 
+const ownerNumber = ["6282154994100@s.whatsapp.net","6289697318611@s.whatsapp.net"] 
 /************************************/
 
        
